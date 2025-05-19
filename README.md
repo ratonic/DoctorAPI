@@ -1,4 +1,4 @@
-[Medicos.postman_collection.json](https://github.com/user-attachments/files/20306801/Medicos.postman_collection.json)
+
 🚀 Características
 Registro de Médicos: Permite añadir nuevos médicos con sus datos relevantes (nombre, email, especialidad, teléfono).
 Consulta de Médicos: Posibilita obtener la lista de todos los médicos registrados o buscar un médico específico por su ID.
@@ -20,5 +20,6 @@ MapStruct: Generador de código para mapeos de objetos tipo DTO a Entidad y vice
 Esta API está diseñada para ser desplegada fácilmente en plataformas como Railway, aprovechando sus servicios de base de datos gestionados y variables de entorno.
 
 
+[Medicos.postman_collection.json](https://github.com/user-attachments/files/20306801/Medicos.postman_collection.json)
 
-
+Hacer click en el link para ver las peticiones crud
