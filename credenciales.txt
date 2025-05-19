@@ -1,0 +1,12 @@
+mysqldump -u root -p --databases doctors > backup.sql
+
+
+Connection Name: Railway MySQL (puedes poner cualquier nombre)
+
+Hostname: trolley.proxy.rlwy.net
+
+Port: 42084
+
+Username: root
+
+Password: rXpFYtDrVFSsoTaQQbWFKokPWWdAIEnO
